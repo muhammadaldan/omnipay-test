@@ -1,5 +1,5 @@
 {
-  "name": "muhammadaldan/omnipay",
+  "name": "muhammadaldan/omnipay-test",
   "type": "library",
   "require": {
     "omnipay/common": "^3.0"
