@@ -1,0 +1,22 @@
+{
+  "name": "muhammadaldan/omnipay",
+  "type": "library",
+  "require": {
+    "omnipay/common": "^3.0",
+    "php-http/guzzle6-adapter": "^1.1"
+  },
+  "require-dev": {
+    "omnipay/tests": "^3.0"
+  },
+  "authors": [
+    {
+      "name": "Muhammad Aldan",
+      "email": "al_dan@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Omnipay\\Test\\": "src/"
+    }
+  }
+}
