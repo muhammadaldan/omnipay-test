@@ -24,7 +24,7 @@ class PaymentGateway extends AbstractGateway
 {
     public function getName()
     {
-        return 'Midtrans Snap Window Redirection';
+        return 'My Omni';
     }
 
     public function getDefaultParameters()
